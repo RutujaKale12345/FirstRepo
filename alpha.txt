@@ -1,3 +1,6 @@
 Hi!!! This is my first alpha project
 
 Beta gamma and delta
+
+
+Changes made after the 1st push
